@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm monicosantenoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="cod" width = "190" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt ="cod" width = "190" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monicosantenoo&label=Profile%20views&color=0e75b6&style=flat" alt="monicosantenoo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
